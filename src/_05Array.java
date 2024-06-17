@@ -1,4 +1,4 @@
-public class _5Array {
+public class _05Array {
     public static void main(String[] args) {
 
         String [] arrayName = new String[3];

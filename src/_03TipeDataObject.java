@@ -1,4 +1,4 @@
-public class _3TipeDataObject {
+public class _03TipeDataObject {
     public static void main(String[] args) {
         //Type data object
         //Type data primitif bisa langsung dipanggil didalam type data object

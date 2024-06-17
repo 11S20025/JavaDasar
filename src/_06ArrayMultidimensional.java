@@ -1,4 +1,4 @@
-public class _6ArrayMultidimensional {
+public class _06ArrayMultidimensional {
 
     public static void main(String[] args) {
 

@@ -5,35 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc7ac2be-d265-43d7-bed9-3422abba2fe1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaDasar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10SwitchYield.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_13WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_14DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_16Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_17ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_18Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_19MethodValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_1HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_20MethodArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_21MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_22RecursiveMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2TipeDataNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3TipeDataObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_4Null.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_6ArrayMultidimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_7ArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_8OperatorMatematika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02TipeDataNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02TipeDataNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03TipeDataObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03TipeDataObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04Null.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04Null.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_05Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_06ArrayMultidimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06ArrayMultidimensional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_07ArrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_07ArrayCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08OperatorMatematika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08OperatorMatematika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_22RecursiveMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_22RecursiveMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_23RecursiveStackOverFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_23RecursiveStackOverFlow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,37 +42,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java/JavaDasar/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CodeWithMe&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Java/JavaDasar/src/Main.java",
+    "settings.editor.selected.configurable": "CodeWithMe",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application._21MethodOverloading">
-    <configuration name="_17ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_17ForEach" />
-      <module name="JavaDasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_18Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_18Method" />
-      <module name="JavaDasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application._23RecursiveStackOverFlow">
     <configuration name="_19MethodValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_19MethodValue" />
       <module name="JavaDasar" />
@@ -111,13 +81,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_22RecursiveMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_22RecursiveMethod" />
+      <module name="JavaDasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_23RecursiveStackOverFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_23RecursiveStackOverFlow" />
+      <module name="JavaDasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._23RecursiveStackOverFlow" />
+        <item itemvalue="Application._22RecursiveMethod" />
         <item itemvalue="Application._21MethodOverloading" />
         <item itemvalue="Application._20MethodArgument" />
         <item itemvalue="Application._19MethodValue" />
-        <item itemvalue="Application._18Method" />
-        <item itemvalue="Application._17ForEach" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +117,7 @@
       <workItem from="1718455247035" duration="1416000" />
       <workItem from="1718469980910" duration="3048000" />
       <workItem from="1718540584141" duration="14365000" />
-      <workItem from="1718601241617" duration="374000" />
+      <workItem from="1718601241617" duration="2626000" />
     </task>
     <servers />
   </component>

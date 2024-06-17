@@ -1,4 +1,4 @@
-public class _2TipeDataNumber {
+public class _02TipeDataNumber {
     public static void main(String[] args) {
 
         //Tipe Data Primitif

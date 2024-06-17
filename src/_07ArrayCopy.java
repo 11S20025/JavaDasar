@@ -1,4 +1,4 @@
-public class _7ArrayCopy {
+public class _07ArrayCopy {
     public static void main(String[] args) {
 
         String [] arrayName = {"Nama", "Saya", "Adalah", "Anton", "Roycar", "Nababan"};

@@ -1,4 +1,4 @@
-public class _8OperatorMatematika {
+public class _08OperatorMatematika {
     public static void main(String[] args) {
 
         //Operator Bitwise

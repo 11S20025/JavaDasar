@@ -1,4 +1,4 @@
-public class _4Null {
+public class _04Null {
     public static void main(String[] args) {
 
         //Null hanya bisa digunakan dalam type data object
